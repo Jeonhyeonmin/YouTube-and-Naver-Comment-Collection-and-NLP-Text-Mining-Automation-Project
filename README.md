@@ -2,11 +2,12 @@
 Python 기반의 웹 크롤러를 개발하여 Selenium WebDriver를 사용해 YouTube와 Naver에서 댓글을 수집하였습니다. 수집된 데이터는 LDA, Word2Vec, WordNet, WordCloud와 같은 NLP 기법을 사용하여 처리됩니다. 결과는 시각화되며, 연구 논문 및 학술 발표를 통해 통찰력을 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/3f1fce98-6a0b-4ad3-b6d8-7685db6b210e)
+![image](https://github.com/user-attachments/assets/40347547-94aa-4ded-842e-1061ce6677f0)
 ![image](https://github.com/user-attachments/assets/0d9379f4-b86a-4bc1-b17b-35d03519d442)
 ![image](https://github.com/user-attachments/assets/cd973648-895e-4f83-8c26-9f6f85c31699)
 ![image](https://github.com/user-attachments/assets/0f97bb0c-3006-461c-bdf2-6ae7f6c0f9be)
 
-# 초보 게임 개발자를 위한 최적 게임 엔진 선택 가이드
+# 초보 게임 개발자를 위한 최적 게임 엔진 선택 가이드 (요약)
 
 ## 서론
 
