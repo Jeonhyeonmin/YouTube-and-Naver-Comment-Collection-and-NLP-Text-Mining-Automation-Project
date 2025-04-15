@@ -1,5 +1,5 @@
 # YouTube 및 Naver 댓글 수집 및 NLP 텍스트 마이닝 자동화 프로젝트
-Python 기반의 웹 크롤러를 개발하여 Selenium WebDriver를 사용해 YouTube와 Naver에서 댓글을 수집하였습니다. 수집된 데이터는 LDA, Word2Vec, WordNet, WordCloud와 같은 NLP 기법을 사용하여 처리됩니다. 결과는 시각화되며, 연구 논문 및 학술 발표를 통해 통찰력을 제공합니다.
+Python 기반의 웹 크롤러를 개발하여 Selenium WebDriver를 사용해 YouTube와 Naver에서 댓글을 수집하였습니다. 수집된 데이터는 LDA, Word2Vec, WordNet, WordCloud와 같은 NLP 기법을 사용하여 처리됩니다. 결과는 시각화되며, 소논문 작성및 학술 발표에 사용 되었습니다.
 
 ![image](https://github.com/user-attachments/assets/3f1fce98-6a0b-4ad3-b6d8-7685db6b210e)
 ![image](https://github.com/user-attachments/assets/40347547-94aa-4ded-842e-1061ce6677f0)
